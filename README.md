@@ -1,0 +1,3 @@
+# static-comments
+
+work please
